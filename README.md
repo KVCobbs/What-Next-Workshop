@@ -42,7 +42,7 @@ Old projects can be a good way to refresh your understanding of a stack in a ful
 
 ![](https://i.redd.it/uch1ua2wb4l41.jpg)
 
-Unless you have a clear idea of how your old projects could be improved in interesting ways, and you have a real passion for them, it might be best to start a new one.  It's unlikely that your GA projects will get you a job offer, so it might be best to start a new one.
+Unless you have a clear idea of how your old projects could be improved in interesting ways, and you have a real passion for them, it might be best to start a new one.  It's unlikely that your boot camp projects will get you a job offer, so it might be best to start a new one.
 
 #### One offs
 You don't necessarily need to create an entire project.  If there's a feature that you're excited to learn, it can be helpful to create an app focused on that. You can avoid some of the parts of programming that you dislike, and focus on developing a new skill you can use in a larger context in the future. If it works well, you might even be able to build a new project around it. If not, it's not a huge loss, and can still look good on your github.
