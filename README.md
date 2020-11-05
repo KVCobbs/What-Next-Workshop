@@ -1,16 +1,18 @@
 # What Next?
 ![what now](https://media.giphy.com/media/L6EoLS78pcBag/source.gif)
 
-You've done an amazing amount of work in the last few months and gained the beginnings of a very useful skill set.  Where do you go from here?
+Maybe you've finished your boot camp recently.  Maybe you've been out for a while and job searching. Maybe you've been working but haven't found your right fit yet.  How do you progress to the next level?
 
 
 ## Relax
 
-A bit. You've gone through a marathon sprint, and keeping yourself healthy and happy is perhaps the most important part of being productive.  Give youself some time to unwind and do some of the things you enjoy you had set aside to keep up with the program. Just don't let it go too long. Set a specific end date to your vacation.
+Maintaining your mental and physical health is the most important thing you can do. Job searching and self-development can be stressful, and it's important to take time off now and again to make sure you can keep functioning at your best.
+
+It can be easy though to fall into immobility and get stuck in place.  Don't let this happen to you.  Set end dates to your times off. Do your best to establish and keep to structure during your working times.
 
 ## Keep coding
 
-The most important piece of advice is to keep coding. You've learned so many concepts and syntax at once that need further study and digestion. Skills can decay alarmingly fast if you don't keep at them.
+The most important piece of advice is to keep coding. You've learned so many concepts and syntax at once that need further study and digestion. Software engineering is also a tremendous field and there's always more to learn. Skills can decay alarmingly fast if you don't keep at them.
 
 If schedules work for you, set aside times during the day that are dedicated to coding, whether that be building a new project, touching up an old one, or just re-doing old lessons and homeworks.
 
@@ -24,7 +26,13 @@ That's a difficult question.  It's more important to be really good at a few lan
 ### Code how?
 
 #### Old lessons
-Old lessons are homeworks are probably the best way to start. Run through the course in the topic you're looking into, and do any assignments that gave you trouble the first time.  Having a solid base is the best way to go forward.
+Old lessons and homeworks can be helpful to making sure your foundational skills stay sharp. Run through the course in the topic you're looking into, and do any assignments that gave you trouble the first time.  Having a solid base is the best way to go forward.
+
+#### Algorithms
+Do a few algorithms a day to sharpen your skills, learn new tricks, and strengthen your problem solving skills.
+
+#### Get a coding buddy
+Coding with a friend or friends can increase your productivity the same way going to the gym with a friend can. You have someone to hold you accountable, especially in terms of making sure that you show up every day. Two sets of eyes on a problem are better than one, and you get to see new ideas and new bugs more often. Even if you prefer to work alone, try to stay in touch with your peers.
 
 #### Take a course
 Taking a course can be a dangerous prospect. It can be easy to substitute real coding for watching course videos. If you're not writing as you're learning, you're not learning. Courses can be helpful though in filling in gaps in your knowledge and learning new functionality in the languages you already know.
@@ -37,7 +45,7 @@ Old projects can be a good way to refresh your understanding of a stack in a ful
 Unless you have a clear idea of how your old projects could be improved in interesting ways, and you have a real passion for them, it might be best to start a new one.  It's unlikely that your GA projects will get you a job offer, so it might be best to start a new one.
 
 #### One offs
-You don't necessarily need to create an entire project.  If there's a feature that you're excited to learn, it can be helpful to create an app focused on that. You can avoid some of the parts of programming that you dislike, and focus on developing a new skill you can use in a larger context in the future. If it works well, you might even be able to build a new project around it. If not, it's not a huge loss.
+You don't necessarily need to create an entire project.  If there's a feature that you're excited to learn, it can be helpful to create an app focused on that. You can avoid some of the parts of programming that you dislike, and focus on developing a new skill you can use in a larger context in the future. If it works well, you might even be able to build a new project around it. If not, it's not a huge loss, and can still look good on your github.
 
 #### New projects
 New projects are a chance to strengthen a bunch of different coding skills, learn new features, and build your portfolio.  There are 3 types of projects I'd recommend taking on.
@@ -53,9 +61,6 @@ Games can be a surprisingly complex and interesting experience.  You'll encounte
 ##### A site you want to use.
 
 Perhaps the best thing you can build is a site that you wish existed. Maybe that's a brand new thing. Maybe it's a version of a site that you do use with more features or customized to the way you wish you could use it. Building a site you want to use stops you from trying to predict what will work well, and it will motivate you to keep working. Also, if it's something you want to use, that means that others will probably want to use it as well.  That could mean that your site will actually have visitors, or that a prospective employee will be able to see the value in it.
-
-#### Get a coding buddy
-Coding with a friend or friends can increase your productivity the same way going to the gym with a friend can. You have someone to hold you accountable, especially in terms of making sure that you show up every day. Two sets of eyes on a problem are better than one, and you get to see new ideas and new bugs more often. Even if you prefer to work alone, try to stay in touch with your peers.
 
 #### Open source projects
 
@@ -99,7 +104,7 @@ There are a bunch of good software engineering podcasts, such as:
 - The Changelog
 - Junior Developer Toolbox
 
-## Build your resume
+## Build your resume and portfolio
 ### Freelance
 Freelance projects come in all difficulty levels and are usually much easier to get than office jobs.  Freelance projects will often force you to acquire new skills (creating new functionalities, integrating third-party apis, etc.) and can serve as real-world projects to show off on your portfolio and resume.
 
